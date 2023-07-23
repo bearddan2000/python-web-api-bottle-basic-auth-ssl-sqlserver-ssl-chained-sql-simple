@@ -1,0 +1,11 @@
+bottle
+bottle-sqlalchemy
+pymssql
+
+# for ssl
+cheroot
+
+# for logins
+beaker
+requests
+
